@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\piece.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|solutionrelative:piece.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|solutionrelative:board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\pawn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|solutionrelative:pawn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\rook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|solutionrelative:rook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\knight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|solutionrelative:knight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\bishop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|solutionrelative:bishop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\queen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|solutionrelative:queen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\king.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|solutionrelative:king.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|solutionrelative:point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "king.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\king.h",
+              "RelativeDocumentMoniker": "king.h",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\king.h",
+              "RelativeToolTip": "king.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-23T15:15:11.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "queen.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\queen.h",
+              "RelativeDocumentMoniker": "queen.h",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\queen.h",
+              "RelativeToolTip": "queen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-23T15:14:19.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bishop.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\bishop.h",
+              "RelativeDocumentMoniker": "bishop.h",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\bishop.h",
+              "RelativeToolTip": "bishop.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-23T15:13:22.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "knight.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\knight.h",
+              "RelativeDocumentMoniker": "knight.h",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\knight.h",
+              "RelativeToolTip": "knight.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-23T15:12:17.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "rook.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\rook.h",
+              "RelativeDocumentMoniker": "rook.h",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\rook.h",
+              "RelativeToolTip": "rook.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-23T15:11:14.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pawn.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\pawn.h",
+              "RelativeDocumentMoniker": "pawn.h",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\pawn.h",
+              "RelativeToolTip": "pawn.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-23T15:09:20.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "board.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\board.h",
+              "RelativeDocumentMoniker": "board.h",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\board.h",
+              "RelativeToolTip": "board.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-23T15:07:14.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "piece.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\piece.h",
+              "RelativeDocumentMoniker": "piece.h",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\piece.h",
+              "RelativeToolTip": "piece.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-23T15:05:20.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "point.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\point.h",
+              "RelativeDocumentMoniker": "point.h",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\si day\\hanucka 2025\\Chess-Game_Project\\point.h",
+              "RelativeToolTip": "point.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-23T15:03:59.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
