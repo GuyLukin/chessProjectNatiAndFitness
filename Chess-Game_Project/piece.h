@@ -14,12 +14,12 @@ protected:
 
 public:
     Piece(Point source);
-    virtual ~Piece() = default;
+    virtual ~Piece();
 
     std::string getColor() const;
     Point getLoc() const;
 
-    virtual void isValidMove( const Board& board, Point inputPoint) = 0;
+    virtual bool isValidMove( const Board& board, Point inputPoint) = 0;
 
     void setLoc(Point inputPoint);
 

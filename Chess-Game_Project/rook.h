@@ -6,5 +6,5 @@ class Rook : public Piece
 public:
     Rook(Point source);
 
-    void isValidMove( const Board& board, Point inputPoint ) override;
+    bool isValidMove( const Board& board, Point inputPoint ) override;
 };

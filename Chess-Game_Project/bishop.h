@@ -6,5 +6,5 @@ class Bishop : public Piece
 public:
     Bishop(Point source);
 
-    void isValidMove( const Board& board,  Point inputPoint ) override;
+    bool isValidMove( const Board& board,  Point inputPoint ) override;
 };

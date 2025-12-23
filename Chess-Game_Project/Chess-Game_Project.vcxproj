@@ -132,6 +132,12 @@
     <ClInclude Include="point.h" />
     <ClInclude Include="queen.h" />
     <ClInclude Include="rook.h" />
+    <ClInclude Include="turnHandler.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="bishop.cpp" />
+    <ClCompile Include="piece.cpp" />
+    <ClCompile Include="turnHandler.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

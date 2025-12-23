@@ -6,5 +6,5 @@ class King : public Piece
 public:
     King(Point source);
 
-    void isValidMove( const Board& board, Point inputPoint ) override;
+    bool isValidMove( const Board& board, Point inputPoint ) override;
 };
