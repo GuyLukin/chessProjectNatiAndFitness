@@ -1,53 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\ekronot\\Ekronot-Ex07-08-netanelcohen05\\chessProjectNatiAndFitness\\Chess-Game_Project\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\ekronot\\Ekronot-Ex07-08-netanelcohen05\\chessProjectNatiAndFitness\\Chess-Game_Project\\bishop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|solutionrelative:bishop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\ekronot\\Ekronot-Ex07-08-netanelcohen05\\chessProjectNatiAndFitness\\Chess-Game_Project\\bishop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|solutionrelative:bishop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "bishop.cpp",
-              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\ekronot\\Ekronot-Ex07-08-netanelcohen05\\chessProjectNatiAndFitness\\Chess-Game_Project\\bishop.cpp",
-              "RelativeDocumentMoniker": "bishop.cpp",
-              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\ekronot\\Ekronot-Ex07-08-netanelcohen05\\chessProjectNatiAndFitness\\Chess-Game_Project\\bishop.cpp",
-              "RelativeToolTip": "bishop.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-23T16:54:01.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "bishop.h",
-              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\ekronot\\Ekronot-Ex07-08-netanelcohen05\\chessProjectNatiAndFitness\\Chess-Game_Project\\bishop.h",
-              "RelativeDocumentMoniker": "bishop.h",
-              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\ekronot\\Ekronot-Ex07-08-netanelcohen05\\chessProjectNatiAndFitness\\Chess-Game_Project\\bishop.h",
-              "RelativeToolTip": "bishop.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-23T15:13:22.673Z"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

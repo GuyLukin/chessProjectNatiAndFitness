@@ -56,5 +56,14 @@
     <ClCompile Include="bishop.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="board.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="rook.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="point.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

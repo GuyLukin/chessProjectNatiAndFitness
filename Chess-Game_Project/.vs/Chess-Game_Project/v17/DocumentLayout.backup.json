@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\ekronot\\Ekronot-Ex07-08-netanelcohen05\\chessProjectNatiAndFitness\\Chess-Game_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\ekronot\\Ekronot-Ex07-08-netanelcohen05\\chessProjectNatiAndFitness\\Chess-Game_Project\\bishop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|solutionrelative:bishop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\ekronot\\Ekronot-Ex07-08-netanelcohen05\\chessProjectNatiAndFitness\\Chess-Game_Project\\point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|solutionrelative:point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\ekronot\\Ekronot-Ex07-08-netanelcohen05\\chessProjectNatiAndFitness\\Chess-Game_Project\\bishop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|solutionrelative:bishop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\ekronot\\Ekronot-Ex07-08-netanelcohen05\\chessProjectNatiAndFitness\\Chess-Game_Project\\point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|solutionrelative:point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\ekronot\\Ekronot-Ex07-08-netanelcohen05\\chessProjectNatiAndFitness\\Chess-Game_Project\\rook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA3AB389-BE53-4619-9B4B-25F6A9932D26}|Chess-Game_Project.vcxproj|solutionrelative:rook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "bishop.cpp",
-              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\ekronot\\Ekronot-Ex07-08-netanelcohen05\\chessProjectNatiAndFitness\\Chess-Game_Project\\bishop.cpp",
-              "RelativeDocumentMoniker": "bishop.cpp",
-              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\ekronot\\Ekronot-Ex07-08-netanelcohen05\\chessProjectNatiAndFitness\\Chess-Game_Project\\bishop.cpp",
-              "RelativeToolTip": "bishop.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Title": "point.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\ekronot\\Ekronot-Ex07-08-netanelcohen05\\chessProjectNatiAndFitness\\Chess-Game_Project\\point.cpp",
+              "RelativeDocumentMoniker": "point.cpp",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\ekronot\\Ekronot-Ex07-08-netanelcohen05\\chessProjectNatiAndFitness\\Chess-Game_Project\\point.cpp",
+              "RelativeToolTip": "point.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-23T16:54:01.727Z",
+              "WhenOpened": "2025-12-24T15:39:17.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "bishop.h",
-              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\ekronot\\Ekronot-Ex07-08-netanelcohen05\\chessProjectNatiAndFitness\\Chess-Game_Project\\bishop.h",
-              "RelativeDocumentMoniker": "bishop.h",
-              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\ekronot\\Ekronot-Ex07-08-netanelcohen05\\chessProjectNatiAndFitness\\Chess-Game_Project\\bishop.h",
-              "RelativeToolTip": "bishop.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Title": "point.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\ekronot\\Ekronot-Ex07-08-netanelcohen05\\chessProjectNatiAndFitness\\Chess-Game_Project\\point.h",
+              "RelativeDocumentMoniker": "point.h",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\ekronot\\Ekronot-Ex07-08-netanelcohen05\\chessProjectNatiAndFitness\\Chess-Game_Project\\point.h",
+              "RelativeToolTip": "point.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-23T15:13:22.673Z",
+              "WhenOpened": "2025-12-24T15:39:14.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rook.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\ekronot\\Ekronot-Ex07-08-netanelcohen05\\chessProjectNatiAndFitness\\Chess-Game_Project\\rook.h",
+              "RelativeDocumentMoniker": "rook.h",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Documents\\magshimim\\ekronot\\Ekronot-Ex07-08-netanelcohen05\\chessProjectNatiAndFitness\\Chess-Game_Project\\rook.h",
+              "RelativeToolTip": "rook.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-24T15:38:34.315Z",
               "EditorCaption": ""
             }
           ]

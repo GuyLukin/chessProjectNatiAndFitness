@@ -8,7 +8,7 @@ private:
 
 public:
     Point();
-    Point(int x, int y);
+    Point(const int x,const int y);
 
     int getX() const;
     int getY() const;
