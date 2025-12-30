@@ -4,7 +4,7 @@
 class King : public Piece 
 {
 public:
-    King(Point source);
+    King(Point source, std::string color);
 
     bool isValidMove( const Board& board, Point inputPoint ) override;
 };

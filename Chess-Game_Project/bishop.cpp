@@ -1,6 +1,7 @@
 #include "bishop.h"
+#include "board.h"
 
-Bishop::Bishop(Point source) : Piece(source)
+Bishop::Bishop(Point source, std::string color) : Piece(source, color, false)
 {
 }
 

@@ -5,23 +5,22 @@
 
 class Board;
 
-class Piece 
+class Piece
 {
 protected:
-    std::vector<Point> _validDests;
+    bool _isKingFlag;
     Point _currLocation;
     std::string _color;
-
 public:
-    Piece(Point source);
+    std::string chooseMoveCode(Board& board, Point destPoint);
+    Piece(Point source, std::string color, bool isKingFlag);
     virtual ~Piece();
-
+    bool checkIsKing();
     std::string getColor() const;
     Point getLoc() const;
 
-    virtual bool isValidMove( const Board& board, Point inputPoint) = 0;
+    virtual bool isValidMove(const Board& board, Point inputPoint) = 0;
 
     void setLoc(Point inputPoint);
 
-   
 };

@@ -4,7 +4,7 @@
 class Rook : public Piece 
 {
 public:
-    Rook(Point source);
+    Rook(Point source, std::string color);
 
-    bool isValidMove( const Board& board, Point inputPoint ) override;
+    bool isValidMove(const Board& board, Point destPoint) override;
 };

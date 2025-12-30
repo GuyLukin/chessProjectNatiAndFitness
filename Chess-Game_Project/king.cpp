@@ -6,7 +6,7 @@
 //a constructor for king
 //input: none
 //output
-King::King(Point source) : Piece(source)
+King::King(Point source,std::string color) : Piece(source, color, true)
 {
 }
 /*function that checks what square can the king go to
@@ -15,8 +15,8 @@ King::King(Point source) : Piece(source)
 */
 bool King::isValidMove(const Board& board, Point inputPoint) 
 {
-    int dx = std::abs(inputPoint.getX() - currLocation.getX());
-    int dy = std::abs(inputPoint.getY() - currLocation.getY());
+    int dx = std::abs(inputPoint.getX() - _currLocation.getX());
+    int dy = std::abs(inputPoint.getY() - _currLocation.getY());
 
     if (dx > 1 || dy > 1 || (dx == 0 && dy == 0))//the  king can only mive one square in each direction
     {

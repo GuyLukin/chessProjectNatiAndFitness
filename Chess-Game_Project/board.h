@@ -15,5 +15,5 @@ public:
 
     Piece* getPieceAt(const Point& p) const;
     void setPieceAt(const Point& p, Piece* piece);
-    bool isCheck() const;
+    bool isCheck(std::string colorToCheck) const;
 };

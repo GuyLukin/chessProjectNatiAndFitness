@@ -7,7 +7,7 @@ private:
     bool _isFirstTime;
 
 public:
-    Pawn(Point source);
+    Pawn(Point source, std::string);
 
-    bool isValidMove( const Board& board, Point inputPoint) override;
+    bool isValidMove( const Board& board, Point destPoint) override;
 };

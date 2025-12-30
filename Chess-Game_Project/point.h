@@ -8,6 +8,7 @@ private:
 
 public:
     Point();
+    ~Point();
     Point(const int x,const int y);
 
     int getX() const;

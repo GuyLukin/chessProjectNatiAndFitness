@@ -1,13 +1,12 @@
 #include "turnHandler.h"
 /*a constructor
 */
-TurnHandler::TurnHandler()	: _turn(0), _numOfTurn(1), _firstPlayerColor("WHITE")
-{
-}
 /*a function that handels the turn switch
 * input:none
 * output:the turn switched
 */
+int TurnHandler::_turn = 0;
+
 void TurnHandler::moveTurn()
 {
 	_turn = (_turn + 1) % 2; //first player starts at 0 second player at 1
@@ -17,15 +16,25 @@ void TurnHandler::moveTurn()
 * input:none
 * output:whose turn it is
 */
-int TurnHandler::turnGetter() const
+std::string TurnHandler::turnGetter()
 {
-	return _turn;
+    std::string strTurn = "WHITE";
+    if (_turn == 1)
+    {
+        strTurn = "BLACK";
+    }
+    return strTurn;
 }
 /*function that returns the number of the turn that is played at the moment
 * input:none
 * output:the turn
 */
-int TurnHandler::numOfTurnGetter() const
+int TurnHandler::numOfTurnGetter()
 {
-	return _numOfTurn;
+    return _numOfTurn;
+}
+
+void TurnHandler::setTurn(int turn)
+{
+    _turn = turn;
 }

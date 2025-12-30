@@ -2,6 +2,11 @@
 #include "Piece.h"
 #include "Board.h"
 
+Pawn::Pawn(Point source, std::string color) :
+	Piece(source, color, false), _isFirstTime(true)
+{
+}
+
 bool Pawn::isValidMove(const Board& board, Point destPoint)
 {
 	bool isValidTemp = false;
@@ -21,4 +26,6 @@ bool Pawn::isValidMove(const Board& board, Point destPoint)
 			isValidTemp = false;
 		}
 	}
+	return isValidTemp;
 }
+

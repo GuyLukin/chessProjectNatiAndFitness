@@ -4,13 +4,13 @@
 class TurnHandler 
 {
 private:
-    int _turn;
+    static int _turn;
     std::string _firstPlayerColor;
     int _numOfTurn;
 
 public:
-    TurnHandler();
+    void setTurn(int turn);
     void moveTurn();
-    int turnGetter() const;
-    int numOfTurnGetter() const;
+    static std::string turnGetter();
+    int numOfTurnGetter();
 };

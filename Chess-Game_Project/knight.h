@@ -4,7 +4,7 @@
 class Knight : public Piece 
 {
 public:
-    Knight(Point source);
+    Knight(Point source, std::string color);
 
     bool isValidMove( const Board& board, Point inputPoint ) override;
 };
